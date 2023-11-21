@@ -1,0 +1,152 @@
+{
+  "Header": {
+    "title": "Bandhani",
+    "paragraph": "Bandhani (Hindi: बांधानी) is a type of tie-dye textile decorated by plucking the cloth with the fingernails into many tiny bindings that form a figurative design."
+  },
+  "About": {
+    "paragraph": "The term bandhani is derived from the Sanskrit verbal root bandh (“to bind, to tie”). Today most Bandhani making centres are situated in Gujarat, Rajasthan, Sindh, Punjab region and in Tamil Nadu where its known as Sungudi.Earliest evidence of Bandhani dates back to Indus Valley Civilization where dyeing was done as early as 4000 B.C. The earliest example of the most pervasive type of Bandhani dots can be seen in the 6th century paintings depicting the life of Buddha found on the wall of Cave 1 at Ajanta. Bandhani is believed to have originated from the city of Ajrakhpur in Gujarat in the 6th century BC. The name Bandhani is derived from the Sanskrit word bandhana, which means to bind. The technique of tie-dye fabrics is believed to have been brought to India by Persian traders who travelled along the Silk Roads. This art finds its mention in Alexander the great time texts about the beautiful printed cottons of India. As per evidence in Historical Texts, the first Bandhani saree was worn at the time of Bana Bhatt`s Harshacharita in a royal marriage. It was believed that wearing a Bandhani saree can bring a good future to a bride. Ajanta walls stand for the evidences of these Bandhani sarees",
+    "Why": [
+      "Bandhej",
+      "Bandhni"
+    ],
+    "Why2": [
+      "Piliya",
+      "Chungidi"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/b1.jpg",
+      "smallImage": "img/b1.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/b2.jpg",
+      "smallImage": "img/b2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/b3.jpg",
+      "smallImage": "img/b3.jpg"
+    },
+  
+  
+    {
+      "title": "Project Title",
+      "largeImage":"img/b4.jpg",
+      "smallImage": "img/b4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/b5.jpg",
+      "smallImage":"img/b5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/b6.jpg",
+      "smallImage":"img/b6.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Aziz Khatri is a renowned artisan from Kutch, India, who learned the art of Bandhani from his family. His mother and grandmother taught him the intricate process of tying and binding traditional patterns, while his father educated him in the art of dyeing. Aziz expanded his skills beyond his family's teachings. He received a scholarship from the All India Handicrafts Board to study natural dyeing and later trained at the Ahmedabad Textile Industries Research Association. Aziz has innovated traditional Bandhani techniques to create new patterns, and he has incorporated stitched and clamped shibori, a Japanese resist-dyeing technique, into his work.",
+      "name": "Abdul Aziz Khatri"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Abduljabbar Mahmadhushen Khatri, known as Jabbar Khatri, is another artisan from the Khatri community in Bhuj, Gujarat. After the devastating Bhuj earthquake in 2001, Jabbar and his brothers decided to revive their family's tradition of tie-dyeing. They were mentored by their uncles and cousins who were still in the trade. Their family is known for tying extremely fine dot patterns in a sophisticated composition style. Jabbar and his brothers have continued in this vein, with their mother, sister, and over two hundred women from their community tying the fine patterns that merge traditional and contemporary designs.",
+      "name": "Jabbar Khatri"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Kolkata-based designer Naina Jain is known for championing the art of Bandhani. She has been instrumental in modernizing the traditional craft and making it more accessible to people of all ages. She combines Bandhani with hand embroideries from across India and marries it with craft techniques such as Kota weaving, chikankari, and Paithani, giving Bandhani a unique update.",
+      "name": "Naina Jain"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rucha Sanghvi",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Heet Dedakiya",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Freya Modi",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Twinkle Popat",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "The Global History of Bandana",
+      "text": "This article discusses the history of bandana and how Bandhani, a tie-dyeing technique from India, evolved into the bandana."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Designer Naina Jain talks about the labour-intensive craft of bandhini",
+      "text": "This article features an interview with designer Naina Jain, who discusses the process of creating Bandhani and its history."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "What makes mirror work and bandhani timeless, and versatile",
+      "text": "This article discusses the timeless appeal of Bandhani and its prevalence during festive seasons in India."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Bandhani: The oldest tie-dye technique in India",
+      "text": "This article explores Bandhani as the oldest tie-dye technique in India and how it is used to make traditional Indian garments."
+    }
+  ]
+}
