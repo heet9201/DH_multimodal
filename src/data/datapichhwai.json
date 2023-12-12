@@ -1,0 +1,105 @@
+{
+    "Header": {
+      "title": " Uttrakhand's Famous Pichhwai",
+      "icon":"img/wai1.jpg",
+      "paragraph": "Pichhwai is a style of painting that originated over 400 years ago in the town of Nathdwara, Rajasthan, India. It is a large, colorful painting on cloth that depicts scenes from the life of Krishna, a Hindu god. Pichhwais are typically hung in temples and homes, and they are considered to be sacred objects."
+    },
+    "About": {
+      "image": "img/wai2.jpg",
+      "text": "Pichhwais are typically made on a cotton or linen canvas, and they are painted using natural dyes and pigments. The paintings are often very detailed and intricate, and they can take months or even years to complete. Pichhwai painting is a highly skilled art form, and it is passed down from generation to generation. The artists who create pichwais are known as pichhwai painters. Pichwai painters must have a deep understanding of Hindu mythology and religion, as well as a strong artistic ability."
+    }
+    
+    
+    ,
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/w3.jpg",
+        "smallImage": "img/w3.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/w4.jpg",
+        "smallImage": "img/w4.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/w3.jpg",
+        "smallImage": "img/w5.jpg"
+      },
+    
+    
+      {
+        "title": "Project Title",
+        "largeImage":"img/w6.jpg",
+        "smallImage": "img/w6.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/w7.jpg",
+        "smallImage":"img/w7.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/w8.jpg",
+        "smallImage":"img/w8.jpg"
+      }
+    ],
+    "Services": [
+      {
+        "icon": "../img/wai3.jpg",
+      
+        "text": "The pichhwai artisans in Nathdwara come from three main sub-castes, the Adi Gaur who claim to have migrated from Udaipur, the Jangirs who were migrated from Jaipur and Jodhpur, and the lesser known Mewaras. These artisans have been creating pichhwai tapestries for generations, using traditional techniques to create intricate and colorful designs"
+      },
+      {
+        "icon": "img/wai4.jpg",
+      
+        "text": "In the modern day, pichhwai artisans often work in groups, under the supervision of a master artist. They live mostly in Chitron ki gali (Street of paintings) and Chitrakaron ka mohallah (colony of painters) in Nathdwara. The artisans have also started to incorporate their traditional art form into contemporary fashion, using their designs in clothing attires and showcasing them on international platforms such as Lakmé Fashion Week"
+      }
+     
+    ],
+    "Testimonials": [
+      {
+    
+        "text": "The word pichhwai comes from the Sanskrit words pichh meaning back and wais meaning hanging. This is because pichwais are often hung behind the idol of Krishna in temples"
+     
+      },
+      {
+       
+        "text": "Pichhwai painting plays a vital role in the economy of Nathdwara and surrounding regions, providing employment for artisans and contributing to local tourism. It also serves as a powerful cultural symbol, representing the region's artistic heritage and spiritual traditions."
+     
+      },
+      {
+        
+        "text": "Pichhwai paintings are characterized by their vibrant colors, intricate details, and use of natural dyes and pigments. Artisans meticulously apply these pigments to cotton or linen canvas, creating mesmerizing compositions that bring to life the divine world of Lord Krishna."
+     
+      }
+    ],
+    "Team": [
+      {
+     "link":"https://www.architecturaldigest.in/story/how-the-artists-of-rajasthans-nathdwara-are-keeping-the-300-year-old-pichvai-artform-alive/",
+        "name": "This article from Architectural Digest discusses the artists of Nathdwara who are keeping the Pichhwai art form alive. It highlights the unique living tradition of these artists and the efforts of Suresh Sharma, one of the founders of the Artists of Nathdwara, to promote the authentic traditions of the painted Pichhwai across the world."
+    
+      },
+      {
+        "link":"https://www.peepultree.world/livehistoryindia/story/cuisines-&-cultures/pichhwai-paintings",
+        "name": "This article from Peepul Tree World provides an overview of Pichhwai paintings, which are a celebration of Lord Krishna. It discusses the unique aesthetics of these paintings and their cultural significance."
+      },
+      {
+        "link":"https://www.exoticindiaart.com/article/from-the-background-to-the-foreground-the-divine-beauty-of-pichhwai/",
+        "name": "This article discusses how the popularity of Pichhwai has transcended the borders of Nathadwara and reached different regions, where the art form was nourished with the styles and aesthetics of local artists."
+      },
+      {
+        "link":"https://en.wikipedia.org/wiki/Pichhwai",
+        "name": "This Wikipedia article provides a comprehensive overview of the modern day production of Pichhwai. It discusses how Pichhwai have become the main export of Nathdwara and are in much demand among foreign visitors."
+      }
+    ],
+   
+    "Features": [
+      {
+        "icon": "img/w2.jpg",
+        "title": "What is Pichhwai",
+        "text": "The main subject of pichwais is Krishna, but they may also depict other Hindu gods, goddesses, or scenes from Hindu mythology. Pichhwais are often used to illustrate religious stories and teachings, and they can be a powerful way to communicate the Hindu faith. Pichhwais are a valuable part of the Hindu cultural heritage, and they are an important part of religious life in Rajasthan. They are a beautiful and inspiring art form that can help people to connect with their faith."
+      }
+    ]
+  }

@@ -31,9 +31,9 @@ const Bandhani = () => {
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} />
-      {/* <Testimonials data={landingPageData.Testimonials} /> */}
-      {/* <Team data={landingPageData.Team} /> */}
-      {/* <Contact data={landingPageData.Contact} /> */}
+      <Testimonials data={landingPageData.Testimonials} />
+      <Team data={landingPageData.Team} />
+      <Contact data={"https://www.youtube.com/embed/_6KoK3hzlMQ?si=HKnIMAiAO9-YcEtM"} />
     </div>
   );
 };

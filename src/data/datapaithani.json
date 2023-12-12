@@ -1,0 +1,115 @@
+{
+  "Header": {
+    "title": " Maharashtra's Famous Paithani",
+    "icon":"img/paithani1.jpg",
+    "paragraph": "Paithani is a variety of saree, named after the Paithan region in Maharashtra state where they are woven by hand. Made from very fine mulberry silk, it is considered as one of the richest sarees in Maharashtra. ”"
+  },
+  "About": {
+    "image": "img/paithani2.jpg",
+    "text": "The history of Paithani sarees can be traced back to 2nd century BC in Satvahana Dynasty, at that time the paithani was made with pure gold wire with cotton and silk. The greeko Romans were very fond of this paithani saree 2000 years ago. They use to exchange gold for this luxurious Paithani saree. At that time this paithani was only worn by royals. Paithani was also known as 'Pratishthani' as it was originated in the ancient city of Pratishthan now known as Paithan. Paithani also has the traces in many ancient Hindu and Buddhist texts. Paithani is also known as Dev vastra (fabric of God). Paithani has a very rich history of 2500 years.  Historians have noted fine Paithani sarees with delicate gold and silver thread-work being sold in Greece in exchange for gold between 200 and 400 BC. In the 18th century the Paithani thrived under the patronage of the Peshwas"
+  }
+  
+  
+  ,
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/p4.jpg",
+      "smallImage": "img/p4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/p5.jpg",
+      "smallImage": "img/p5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/p6.jpg",
+      "smallImage": "img/p6.jpg"
+    },
+  
+  
+    {
+      "title": "Project Title",
+      "largeImage":"img/p7.jpg",
+      "smallImage": "img/p7.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/p8.jpg",
+      "smallImage":"img/p8.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/p9.jpg",
+      "smallImage":"img/p9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "../img/p3.jpg",
+    
+      "text": "Pramod Govind Peshwe:Peshwe Govind Peshwe's contributions to the Paithani design are not explicitly mentioned in the search results provided. However, the Peshwa dynasty was known for its architectural achievements, particularly in the Pune region. The Peshwas were responsible for the construction of several significant structures, including the Shaniwar Wada, a luxurious leisure palace constructed for the Peshwa."
+    },
+    {
+      "icon": "img/p2.jpg",
+    
+      "text": "Manohar Sitaram ChavanManohar Sitaram Chavan was a prominent figure in the Indian National Congress and served as the Chief Minister of Maharashtra for two terms. He played a significant role in the development of the state and was instrumental in the growth of the textile industry in Maharashtra. However, the search results provided do not mention any specific contributions of Manohar Sitaram Chavan to the Paithani design. "
+    },
+    {
+      "icon": "img/p1.jpg",
+    
+      "text": "Meera Shankar Sathe: Meera Shankar Sathe, also known as Meera Mehta, is a renowned Indian textile designer and weaver based in Mumbai. She is best known for her revival of the Paithani sari, a legendary sari woven in Maharashtra, India for the past 2,000 years. The Paithani sari is known for its intricate weave of pure silk and gold, and many of its designs are influenced by Buddhist paintings"
+    }
+   
+  ],
+  "Testimonials": [
+    {
+  
+      "text": " Traditional Paithani sarees often feature zari work made with real gold and silver threads, adding to the opulence and luxurious feel of the fabric. "
+   
+    },
+    
+    {
+      
+      "text": "Traditional Paithani sarees often feature zari work made with real gold and silver threads, adding to the opulence and luxurious feel of the fabric."
+   
+    },
+    {
+      
+      "text": "The entire Paithani saree is handwoven, including the borders and pallu. It's a labor-intensive process that requires skill, precision, and patience."
+   
+    }
+  ],
+  "Team": [
+    {
+   "link":"https://blog.mirraw.com/2023/10/29/paithani-sarees-ultimate-guide/",
+      "name": "The Ultimate Guide to Paithani Sarees: History, Design, and Care: This article gives an in-depth overview of the history, design, and care of Paithani sarees. It explains how these sarees are crafted with luxurious silk and intricate handwoven motifs, embodying the rich cultural heritage of the Deccan region"
+  
+    },
+    {
+      "link":"https://www.vogue.in/fashion/content/paithani-sari-maharashtrian-bridal-sari-history-technique",
+      "name": "Paithani saris: Everything you need to about this Maharashtrian wedding staple: This article by Vogue India provides information about the distinctive ethos that makes the Paithani sari "
+    },
+    {
+      "link":"https://thesewcialists.com/2020/11/13/textiles-of-the-world-paithani/",
+      "name": "An exhibition in Paithan of its eponymous weave has many cheering for similar initiatives across the country — where textile des by Pankaja Srinivasan. This article discusses the rich and ancient heritage of the place where the Paithani sari found expression."
+    },
+    {
+      "link":"https://www.vogue.in/fashion/content/asha-gautam-is-reviving-the-heirloom-worthy-paithani-weave",
+      "name": "Paithani Saree: A Traditional Elegance, A Rich Legacy, and Timeless Grace of Maharashtra's Finest Weave by Exotic India Art. This article provides information about the motifs and their denotations in Paithani sarees."
+    },
+    {
+      "link":"https://www.thehindu.com/life-and-style/not-caught-in-a-time-warp-the-rich-paithanis/article22732006.ece",
+      "name": "Complete Paithani Guide: Paithani History, Paithani Types, Care and How to identify fake and real Paithani by Ashwini. This article provides a complete guide to Paithani history, types, care, and how to identify fake and real Paithani."
+    }
+  ],
+ 
+  "Features": [
+    {
+      "icon": "img/paithani3.jpg",
+      "title": "What is Paithani",
+      "text": "Paithani is a variety of saree, so-called after the Paithan region in Maharashtra state where they are handwoven. Renowned for its stunning palette and effervescent appeal, one of the unique features of Paithani sarees is their Pallu, which is the end of the saree that is draped over the shoulder. Another unique attribute that sets apart Paithani saree from others is the exceptional weaving technique. From yarn dyeing to weaving, the whole process is accomplished manually by hands."
+    }
+  ]
+}

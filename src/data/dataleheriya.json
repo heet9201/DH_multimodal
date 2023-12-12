@@ -1,0 +1,105 @@
+{
+  "Header": {
+    "title": " Rajasthan's Famous Leheriya",
+    "icon":"img/leheriya1.jpg",
+    "paragraph": "Originating in Rajasthan, leheriya is a tie-dye technique renowned for its unique arrangements of stripes, chevrons, and diagonals. This traditional artistry adorns men’s safas (turban cloths), women’s odhanis, and sarees, drawing inspiration from the monsoon’s celebratory essence in the state, and the wind’s imprints on desert sands, reflected in its name derived from the Sanskrit word “lahara,” meaning “wave.”"
+  },
+  "About": {
+    "image": "img/leheriya2.jpg",
+    "text": "Traces of leheriya and examples of the same date back to the seventeenth century, note historians. Artisans used 5 different colours in former times and the dyes were all-natural, derived from plants as well as minerals. Patronized by the elites of Rajasthan in the nineteenth and early twentieth century, was not a symbol of culture but also of status. Local traders and merchants wore Leheriya turbans with bright hues for years. For a really long time, it belonged to the Marwari classes & communities of Rajasthan before being popularised for the masses. The Rajputs of Rajasthan too used leheriya turbans as a symbol of their heritage.The term Leheriya is derived from the Hindi word leliai"
+  }
+  
+  
+  ,
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/l3.jpg",
+      "smallImage": "img/l3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/l4.jpg",
+      "smallImage": "img/l4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/l5.jpg",
+      "smallImage": "img/l5.jpg"
+    },
+  
+  
+    {
+      "title": "Project Title",
+      "largeImage":"img/l6.jpg",
+      "smallImage": "img/l6.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/l7.jpg",
+      "smallImage":"img/l7.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/l8.jpg",
+      "smallImage":"img/l8.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "../img/l1.png",
+    
+      "text": "Badshah Mian is an award-winning Leheriya craftsman from Jaipur, Rajasthan. He comes from a family of traditional Rangrez, or textile dyeing craftsmen, and has spent several years working with the Ministry of Textiles, supporting various textile and handcraft traditions 1. Badshah Mian left his official position before regular retirement age to return to his traditional occupation as a Leheriya craftsman. His private collection of heritage textiles has priceless treasures. "
+    },
+    {
+      "icon": "img/leheriya2.jpg",
+    
+      "text": "Shehan Shah and Shah Nawaz: Following in the footsteps of their father, Badshah Mian's sons Shehan Shah and Shah Nawaz are Lehariya experts in their own right. Shehen Shah is a State Award winner. Shah Nawaz left his job in a bank to study design and joined his brother in running the family's textile business. They take pleasure in experimenting with new fabrics and techniques, blending their aesthetic and imagination with the traditional knowledge of their craft "
+    }
+   
+  ],
+  "Testimonials": [
+    {
+  
+      "text": " Leheriya, a traditional Rajasthani textile, is worn by women during festivals like Teej and Gangaur, and light pink on Sharad Poornima. These tie-dyed fabrics hold cultural value and are worn during spring festivities, monsoon festivals, and weddings, with men often sporting red or pink safas. "
+   
+    },
+    {
+     
+      "text": "Leheriya, a traditional Rajasthani ceremonial garment, has evolved to include various fabrics like cotton, silk, and georgette, blending into the contemporary textile landscape, a living craft tradition favored by local royalty."
+   
+    },
+    {
+      
+      "text": "Many leheriya artisans belong to families with a longstanding tradition of textile craftsmanship. The knowledge and skills are often passed down from parents to children, creating a generational legacy.      "
+   
+    }
+  ],
+  "Team": [
+    {
+   "link":"https://fabriclore.com/blogs/journal/leheriya-and-bandhani-fabrics",
+      "name": "Leheriya: A Story of Traditional Fabric of Rajasthan on Fabriclore: This blog post provides a detailed account of the history and process of creating Leheriya."
+  
+    },
+    {
+      "link":"https://abirpothi.com/leheriya-the-tied-and-dyed-threads-of-rajasthan/",
+      "name": "Leheriya: The Tied and Dyed Threads of Rajasthan on Abir Pothi: This article dives into the origins of Leheriya, the process of creating it, and its cultural significance in Rajasthan.   "
+    },
+    {
+      "link":"https://isha.sadhguru.org/in/en/outreach/save-the-weave/indian-weaves/leheriya",
+      "name": "Leheriya on Isha Sadhguru: This article provides a brief overview of the Leheriya technique and its cultural significance.      "
+    },
+    {
+      "link":"https://artsandculture.google.com/story/how-a-leheriya-fabric-is-created-dastkari-haat-samiti/wwUBNWklTvtAJQ?hl=en",
+      "name": "How a Leheriya Fabric is Created on Google Arts & Culture: This resource offers a step-by-step guide on how Leheriya fabric is created, complete with photos and descriptions of each stage of the process."
+    }
+  ],
+ 
+  "Features": [
+    {
+      "icon": "img/leherabout.jpg",
+      "title": "What is Leheriya",
+      "text": "Leheriya, primarily crafted on airy fabrics, stands as a cherished option for women seeking respite from Rajasthan’s blazing heat. Every festival is accompanied by specific colors linked to them. During festivities like Teej and Gangaur, women don the vibrant Samudra Rajashahi Leheriya. Come Sharad Poornima, they grace the occasion with the elegance of light pink Leheriya, also referred to as Mothia.Tie-dyed fabrics like leheriya hold profound cultural value in Rajasthan and are donned during significant events. For spring festivities like Holi and Gangaur, women adorn themselves in leheriya odhanis and sarees. Similarly, during the monsoon festival of Teej, these textiles make an appearance. On special occasions like weddings, men often sport red or pink safas. In times of mourning, a safa featuring the mothra design is traditionally worn."
+    }
+  ]
+}

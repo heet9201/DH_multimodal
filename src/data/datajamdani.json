@@ -1,0 +1,105 @@
+{
+  "Header": {
+    "title": " West Bengal's Famous Jamdani",
+    "icon":"img/jamdani1.jpg",
+    "paragraph": "Jamdani is a traditional handwoven textile art originating from Bengal. It involves intricate weaving on fine muslin cotton using a supplementary weft technique, creating delicate patterns such as flowers and geometric designs. Historically prized and associated with royalty, Jamdani remains a symbol of traditional textile artistry in the Bengal region, known for its elegance and cultural significance."
+  },
+  "About": {
+    "image": "img/jamdani2.jpg",
+    "text": "The name Jamdani has linguistic and historical roots that reflect the craft's origins in Bengal. The etymology of the word provides insights into its meaning and historical context: Linguistic Roots: Jam (জাম): The term Jam is believed to be derived from the Bengali word for flower, which is জাম (pronounced jam). The intricate patterns in Jamdani often include floral motifs, and the name reflects this connection to flowers. Dani (দানি):Dani is derived from the Bengali word for a vase or container, which is দানি (pronounced dani). This part of the name signifies the arrangement of the floral patterns in a way that resembles flowers in a vase"
+  }
+  
+  
+  ,
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/j4.jpg",
+      "smallImage": "img/j4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/j5.jpg",
+      "smallImage": "img/j5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/j6.jpg",
+      "smallImage": "img/j6.jpg"
+    },
+  
+  
+    {
+      "title": "Project Title",
+      "largeImage":"img/j7.jpg",
+      "smallImage": "img/j7.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/j8.jpg",
+      "smallImage":"img/j8.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/j9.jpg",
+      "smallImage":"img/j9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "../img/j1.jpg",
+    
+      "text": "Chinar Farooqui is the founder of Injiri, a textile-focused label that produces Jamdani fabrics. Farooqui has a deep commitment to Indian craft, and her brand features Jamdani, among other Indian textiles. She often adds tiny additions of neon threads in her favorite Jamdani motifs, adding a playful touch to her designs. Farooqui ensures that her fabrics are made by master weavers, often entirely in shades of white"
+    },
+    {
+      "icon": "img/j2.jpg",
+    
+      "text": "Sarita Ganeriwala is an artist, designer, and the founder of Karomi, a design studio based in Kolkata. She has a Masters in Textile Design from NIFT, New Delhi, and has worked closely with Jamdani weavers. Ganeriwala's designs range from saris, dupattas, stoles, stitched garments, textile art, and home textiles. She has been innovating in terms of design while preserving the purity of the Jamdani technique"
+    }
+   
+  ],
+  "Testimonials": [
+    {
+  
+      "text": "The exact origin of Jamdani weaving is not precisely documented, but it is believed to have originated in Bengal, an area that encompasses parts of present-day Bangladesh and the Indian state of West Bengal. The birth of Jamdani can be attributed to the historical and cultural developments of the region."
+   
+    },
+    {
+     
+      "text": "There is no written document for the innumerable motifs used in Jamdani. The motifs are repeated with remarkable precision and time-tested consistency. Nothing is sketched or outlined. The weavers can easily estimate the time required for weaving a particular motif"
+   
+    },
+    {
+      
+      "text": "Jamdani is a time-consuming and labor-intensive form of weaving because of the richness of its motifs, which are created directly on the loom using the discontinuous weft technique. Two weavers can use one loom at the same time to make a saree. In addition to looms for two weavers, there are small looms for one person."
+   
+    }
+  ],
+  "Team": [
+    {
+   "link":"https://artsandculture.google.com/story/MAUhKvXXi00LLg",
+      "name": "This article by Dr. Saifur Rashid provides a comprehensive overview of the Jamdani weaving technique, its history, and its cultural significance. It also discusses the process of Jamdani weaving and the role of the weavers in the community."
+  
+    },
+    {
+      "link":"https://gulfnews.com/photos/lifestyle/in-pictures-jamdani-the-traditional-weaving-art-of-bengal-and-bangladesh-1.1602137630666?slide=11",
+      "name": "This article provides a visual journey through the Jamdani weaving technique. It includes photos of the weaving process and examples of Jamdani textiles."
+    },
+    {
+      "link":"https://www.dawn.com/news/630713/jamdani-weaving-history",
+      "name": "This article discusses the history of Jamdani weaving, its cultural significance, and its impact on the community. It also provides information on the different types of Jamdani work and the materials used in its production."
+    },
+    {
+      "link":"https://www.culturalindia.net/indian-crafts/jamdani.html",
+      "name": "This article provides an overview of Jamdani, its origins, and the evolution of the technique. It also discusses the different fabrics used in Jamdani weaving."
+    }
+  ],
+ 
+  "Features": [
+    {
+      "icon": "img/j3.jpg",
+      "title": "What is Jamdani",
+      "text": "Jamdani weaving has been recognized by UNESCO as a part of the Intangible Cultural Heritage of Humanity. This recognition underscores not only the exceptional skill and dedication of the weavers but also the cultural importance of the sari itself. The weavers, together with spinners, dyers, loom-dressers, and practitioners of a number of other supporting crafts, form a closely knit community with a strong sense of unity, identity, and continuity. The art of Jamdani weaving is a combination of creativity, imagination, and skills"
+    }
+  ]
+}

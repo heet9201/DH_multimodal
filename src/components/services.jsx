@@ -3,28 +3,40 @@ import React from "react";
 export const Services = (props) => {
   return (
     <>
-    <div id="services" className="text-center">
-      <div className="container">
-        <div className="section-title">
-          <h2>Well Known Artisans</h2>
-          <p>
+      <div id="services" className="text-center">
+        <div className="container">
+          <div className="section-title">
+            <h2>Well Known Artisans</h2>
+            <p>
 
-          </p>
+            </p>
+          </div>
+          <div className="row">
+          {props.data
+  ? (
+    <div style={{ display: "flex", flexDirection: "row", gap: "110px", justifyContent: "center", alignItems: "flex-start" }}>
+      {props.data.map((d, i) => (
+        <div key={i} className="card" style={{ width: "25rem", display: "flex", flexDirection: "column" }}>
+          <img
+            className="card-img-top"
+            src={d.icon}
+            alt="Card image cap"
+            style={{ width: "100%", height: "180px", objectFit: "cover", marginBottom: "10px" }}
+          />
+          <div className="card-body" style={{ flex: "1" }}>
+            <b>
+              <p className="card-text">{d.text}</p>
+            </b>
+          </div>
         </div>
-        <div className="row">
-          {/* {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
-                  {" "}
-                  <i className={d.icon}></i>
-                  <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
-                  </div>
-                </div>
-              ))
-            : "loading"} */}
-            <div style={{display:"flex",msFlexDirection:"row",gap:"110px"}} >
+      ))}
+    </div>
+  )
+  : "loading"}
+
+
+
+            {/* <div style={{display:"flex",msFlexDirection:"row",gap:"110px"}} >
           <div className="card" style={{width:"30rem"}}>
             <img className="card-img-top" src="../img/a1.jpg" alt="Card image cap" style={{width:"18rem",height:"180px",marginBottom:"10px"}}/>
 
@@ -49,10 +61,10 @@ export const Services = (props) => {
            <b>  <p className="card-text">Kolkata-based designer Naina Jain is known for championing the art of Bandhani. She has been instrumental in modernizing the traditional craft and making it more accessible to people of all ages. She combines Bandhani with hand embroideries from across India and marries it with craft techniques such as Kota weaving, chikankari, and Paithani, giving Bandhani a unique update.</p>
           </b>  </div>
           </div>
+          </div> */}
           </div>
         </div>
       </div>
-    </div>
     </>
   );
 };

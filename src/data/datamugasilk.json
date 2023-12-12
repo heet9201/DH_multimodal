@@ -1,0 +1,110 @@
+{
+    "Header": {
+      "title": " Assam's Famous Muga silk",
+      "icon":"img/muga1.jpg",
+      "paragraph": "Muga silk is a natural, golden silk produced in the state of Assam, India. It is known for its unique luster, durability, and soft texture."
+    },
+    "About": {
+      "image": "img/muga2.jpg",
+      "text": "Muga silk is produced from the cocoons of the Antheraea assamensis silkworm, which is native to the Brahmaputra Valley of Assam. The silkworms feed on the leaves of the som (Machilus bombycina) and sualu (Litsea polyantha) trees, which give the silk its characteristic golden color. Muga silk is traditionally used to make traditional Assamese garments, such as the mekhela chador, a traditional Assamese dress worn by women. It is also used to make other garments, such as saris, scarves, and shawls. "
+    }
+    
+    
+    ,
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/m3.jpg",
+        "smallImage": "img/m3.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/m4.jpg",
+        "smallImage": "img/m4.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/m5.jpg",
+        "smallImage": "img/m5.jpg"
+      },
+    
+    
+      {
+        "title": "Project Title",
+        "largeImage":"img/m6.jpg",
+        "smallImage": "img/m6.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/m7.jpg",
+        "smallImage":"img/m7.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/m9.jpg",
+        "smallImage":"img/m9.jpg"
+      }
+    ],
+    "Services": [
+      {
+        "icon": "../img/muga3.jpg",
+      
+        "text": "Rajen Bora: A master weaver from Sivasagar, Assam, Rajen Bora has been weaving Muga silk for over four decades. He is renowned for his meticulous craftsmanship and his ability to create intricate designs that reflect the rich cultural heritage of Assam."
+      },
+      {
+        "icon": "img/muga4.jpg",
+      
+        "text": "Bhuban Barua: A silkworm rearing expert from Kokrajhar, Assam, Bhuban Barua has dedicated his life to cultivating the Antheraea assamensis silkworm, the source of Muga silk. He has perfected the art of rearing silkworms under optimal conditions, ensuring a high yield of high-quality silk."
+      },
+      {
+        "icon": "img/m1.jpg",
+      
+        "text": "Anuradha Saikia: A young artisan from Majuli, Assam, Anuradha Saikia is reviving the traditional art of Muga silk dyeing using natural dyes derived from local plants. Her vibrant and eco-friendly dyeing techniques have added a new dimension to Muga silk's appeal."
+      }
+     
+    ],
+    "Testimonials": [
+      {
+    
+        "text": "Muga silk is produced from the cocoons of the Antheraea assamensis silkworm, which is native to the Brahmaputra Valley of Assam. The silkworms feed on the leaves of the som (Machilus bombycina) and sualu (Litsea polyantha) trees, which give the silk its characteristic golden color."
+     
+      },
+      {
+       
+        "text": "Muga silk is a variety of wild silk that is geographically tagged to the state of Assam in India. The silk is known for its extreme durability and has a natural yellowish-golden tint with a shimmering, glossy texture. It was previously reserved for the use of royalty"
+     
+      },
+      {
+        
+        "text": "Muga silk was previously reserved for the use of royalty. It is a valuable commodity, and its production is carefully regulated by the Indian government. The silk is protected under the Geographical Indications Act of India, which means that only silk produced in Assam can be labeled as muga silk."
+     
+      }
+    ],
+    "Team": [
+      {
+     "link":"http://northeastindiaonlinenews.blogspot.com/2016/02/wild-muga-sanctuary-will-be-first-step.html",
+        "name": "This newsletter provides news and information about Muga silk, including new products, events, and promotions."
+    
+      },
+      {
+        "link":"https://www.licas.news/2021/08/26/with-assam-silk-and-trees-indians-fight-climate-change-and-trafficking/",
+        "name": "This newsletter is published by the Assam Silk Board, a government organization that promotes Muga silk. It includes news, articles, and resources about Muga silk. "
+      },
+      {
+        "link":"https://loveindus.com/blogs/indus-ink/the-magnificence-of-muga-silk-the-ancient-silk-of-assam",
+        "name": "The magnificence of Muga Silk : the ancient silk of Assam "
+      },
+      {
+        "link":"https://sericulture.assam.gov.in/how-to/know-about-silk-and-its-production-in-assam",
+        "name": "Know about the silk and its production in Assam "
+      }
+    ],
+   
+    "Features": [
+      {
+        "icon": "img/m2.jpg",
+        "title": "What is Muga Silk",
+        "text": "The name Muga silk is derived from the Assamese word muga, which means yellow. This is because the silk has a natural golden yellow color. The silkworms that produce muga silk feed on the leaves of the som (Machilus bombycina) and sualu (Litsea polyantha) trees, which give the silk its characteristic color.The earliest known reference to muga silk dates back to the 7th century AD, when it was mentioned in the Arthashatra, an ancient Indian treatise on economics and politics. The Arthashatra describes muga silk as being of the color of butter and as red as the sun.Muga silk was a prized possession of the Ahom kings, who ruled Assam from the 13th to the 19th centuries. The Ahoms used muga silk to make their royal robes and other ceremonial garments. They also gave muga silk as gifts to foreign dignitaries."
+      }
+    ]
+  }

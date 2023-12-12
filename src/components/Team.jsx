@@ -1,31 +1,36 @@
 import React from "react";
 
 export const Team = (props) => {
+  
   return (
     <div id="team" className="text-center">
       <div className="container">
-        <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+        <div className="col-md-8 col-md-offset-2 section-title" style={{marginBottom:"-100px"}}>
+          <h2>Newsletters</h2>
+         <br></br>
         </div>
-        <div id="row">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
-                  <div className="thumbnail">
-                    {" "}
-                    <img src={d.img} alt="..." className="team-img" />
-                    <div className="caption">
-                      <h4>{d.name}</h4>
-                      <p>{d.job}</p>
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
+        <div style={{marginTop:"160px"}} >
+        {props.data
+  ? props.data.map((d, i) => (
+      <div key={i} >
+        <h4 style={{ textAlign: "left",padding:"10px" }}>
+        <a
+              href={d.link}
+              style={{
+                color: "darkblue",
+                textDecoration: "none",
+                transition: "color 0.3s",
+                ":hover": { color: "blue" },
+              }}
+            >
+              {d.name}
+            </a>
+        </h4>
+      </div>
+    ))
+  : "loading"}
+
+
         </div>
       </div>
     </div>

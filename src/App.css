@@ -16,3 +16,10 @@
     width: 110%;
   }
 }
+.custom-link {
+  transition: color 0.3s; /* Add a smooth transition effect */
+}
+
+.custom-link:hover {
+  color: blue;
+}

@@ -8,7 +8,7 @@ import { Gallery } from "./gallery";
 import { Testimonials } from "./testimonials";
 import { Team } from "./Team";
 import { Contact } from "./contact";
-import JsonData from "../data/data.json";
+import JsonData from "../data/datajamdani.json";
 import SmoothScroll from "smooth-scroll";
 import "../App.css";
 
@@ -33,7 +33,7 @@ const WestBengal = () => {
       <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
+      <Contact data={"https://www.youtube.com/embed/1lStd5_1FjU?si=fdsW5N6tP1KVTrcY"} />
     </div>
   );
 };

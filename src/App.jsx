@@ -10,6 +10,8 @@ import AndhraPradesh from './components/andhrapradesh'
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MyMapComponent from './components/map';
+import Pichhwai from './components/pichhwai';
+import Assam from './components/assam';
 
 
 
@@ -22,8 +24,9 @@ function App() {
       <Route path="/maharashtra" element={<Maharashtra/>} />
       <Route path="/uttarpradesh" element={<UttarPradesh/>} />
       <Route path="/westbengal" element={<WestBengal/>} />
+      <Route path="/uttarakhand" element={<Pichhwai/>} />
+      <Route path="/assam" element={<Assam/>} />
       <Route path="/andhrapradesh" element={<AndhraPradesh/>} />
-
       <Route path="/" element={<MyMapComponent />} />
     </Routes>
   </Router>

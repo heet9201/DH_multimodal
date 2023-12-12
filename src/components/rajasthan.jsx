@@ -8,7 +8,7 @@ import { Gallery } from "./gallery";
 import { Testimonials } from "./testimonials";
 import { Team } from "./Team";
 import { Contact } from "./contact";
-import JsonData from "../data/data.json";
+import JsonData from "../data/dataleheriya.json";
 import SmoothScroll from "smooth-scroll";
 import "../App.css";
 
@@ -33,7 +33,7 @@ const Rajasthan = () => {
       <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
+      <Contact data={"https://www.youtube.com/embed/dPrVU72dnb8?si=gdSX0tZNP6WUVcOg"} />
     </div>
   );
 };

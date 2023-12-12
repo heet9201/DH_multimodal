@@ -1,7 +1,11 @@
 import React from "react";
-
+import { useNavigate } from "react-router-dom";
+// import { MdOutlineArrowBack } from "react-icons/md";
 export const Navigation = (props) => {
+  let navigate = useNavigate();
   return (
+
+    
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
         <div className="navbar-header">
@@ -17,13 +21,14 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
+      
           <img src="../img/logo2.png" style={{height:"50px",width:"60px", marginLeft:"-250px",marginTop:"5px"}}></img>
           <a className="navbar-brand page-scroll" href="#page-top">
             
             Humanoids
           </a>{" "}
         </div>
-ˀ
+
         <div
           className="collapse navbar-collapse"
           id="bs-example-navbar-collapse-1"
@@ -56,12 +61,12 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                Newsletters
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Making Process
               </a>
             </li>
           </ul>

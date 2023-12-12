@@ -1,0 +1,105 @@
+{
+  "Header": {
+    "title": " Uttar Pradesh's Famous Chikankari",
+    "icon":"img/chikankari1.jpg",
+    "paragraph": "Chikankari is a traditional embroidery technique from India, known for its delicate and artfully done hand embroidery on a variety of textile fabrics like cotton, chanderi, muslin, georgette, viscose, silk, organza, net, etc. The embroidery is usually done on cool, pastel shades of light muslin and cotton garments. Nowadays, chikan embroidery is also done with colored and silk threads in colors to meet the fashion trends and keep chikankari up-to-date"
+  },
+  "About": {
+    "image": "img/chikankari2.jpg",
+    "text": "Chikankari is a traditional embroidery style that originated in Lucknow, India. The word chikan means embroidery in Hindi, and kari means work, hence the name Chikankari. There are several theories about the origin of Chikankari. One theory suggests that it stems from the white-on-white embroidery of Shiraz, which came to India as part of a culture of Persian nobles at the Mughal court 1. Another popular origin story credits Noor Jahan, Mughal empress and wife of Jahangir, for introducing Chikankari to India 1. Chikankari is believed to have originated in the 17th century during the reign of the Mughal Emperor Akbar. Historical records suggest that he was a patron of the arts and encouraged the development of various crafts. The name not only signifies the meticulous craftsmanship but also highlights the sophistication and grace associated with the delicate white-on-white embroidery that characterized the early forms of Chikankari."
+  }
+  
+  
+  ,
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/c4.jpg",
+      "smallImage": "img/c4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/c5.jpg",
+      "smallImage": "img/c5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/c6.jpg",
+      "smallImage": "img/c6.jpg"
+    },
+  
+  
+    {
+      "title": "Project Title",
+      "largeImage":"img/c7.jpg",
+      "smallImage": "img/c7.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/c8.jpg",
+      "smallImage":"img/c8.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/c9.jpg",
+      "smallImage":"img/c9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "../img/c1.jpg",
+    
+      "text": "Umar Miyan is a renowned Chikankari artisan from Lucknow, India. He has been involved in the art of Chikankari for several generations. His work is recognized for its intricate designs and meticulous execution. Umar Miyan has shared his knowledge and skills with younger generations, ensuring the continuation of this traditional craft"
+    },
+    {
+      "icon": "img/c2.jpg",
+    
+      "text": "Khushboo Sharma is a connoisseur of Chikankari and a passionate advocate for the artisans who create this craft. She has written extensively about the art of Chikankari and the challenges faced by the artisans who uphold this tradition. Despite the low wages paid to these artisans, Sharma has highlighted their dedication and skill in her writings "
+    }
+   
+  ],
+  "Testimonials": [
+    {
+  
+      "text": "The motifs and patterns in Chikankari were influenced by Persian and Central Asian art forms, reflecting the Mughal Empire's cultural synthesis."
+   
+    },
+    {
+     
+      "text": "The mid-20th century witnessed concerted efforts to revive Chikankari. Artisans and craft enthusiasts recognized the cultural significance of this traditional embroidery and worked towards its preservation and promotion."
+   
+    },
+    {
+      
+      "text": "Chikankari embroidery uses 32 different stitches, including backstitch, chain stitch, hemstitch, and others. The patterns and effects created depend on the stitches and the thicknesses of the threads used"
+   
+    }
+  ],
+  "Team": [
+    {
+   "link":"https://paramountchikan.com/blogs/news/the-art-of-chikankari-an-insight-into-the-craftsmanship",
+      "name": "This article explores the origins and development of Chikankari, a beautiful embroidery technique. It also provides useful tips to preserve this intricate embroidery in your daily wardrobe."
+  
+    },
+    {
+      "link":"https://en.wikipedia.org/wiki/Chikan_(embroidery)",
+      "name": "This Wikipedia article provides a comprehensive overview of Chikankari, including its technique, use, and cultural significance."
+    },
+    {
+      "link":"https://indiartisian.com/blogs/news/title-comprehensive-guide-to-chikankari-embroidery",
+      "name": "This article delves into the diverse types of Chikankari embroidery techniques and highlights the significance of each."
+    },
+    {
+      "link":"https://www.culturalindia.net/indian-crafts/chikankari.html",
+      "name": "This article provides an overview of Chikankari, its origins, and the evolution of the technique. It also discusses the different fabrics used in Chikankari embroidery."
+    }
+  ],
+ 
+  "Features": [
+    {
+      "icon": "img/c3.jpg",
+      "title": "What is Chikankari",
+      "text": "1. *Chikan (چکن):- The word Chikan in Persian means skilled embroidery or embroidery with grace. This term aptly captures the essence of the delicate and intricate embroidery work that defines Chikankari. 2. **Kari (کاری):*- Kari translates to craftsmanship or work in Persian. It denotes the skill and artistry involved in creating the hand-embroidered patterns characteristic of Chikankari."
+    }
+  ]
+}
